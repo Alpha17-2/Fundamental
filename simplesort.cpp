@@ -35,7 +35,7 @@ void solve()
           ++start;
       }
   }
-  for(int i=n-1;i>=start;i--) // swapping 1's
+  for(int i=n-1;i>=start;i--) // swapping 2's
   {
       if(a[i]==2)
       {
